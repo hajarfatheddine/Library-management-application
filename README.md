@@ -1,1 +1,2 @@
-#L’objectif de ce projet est de développer une application de gestion de bibliothèque universitaire en language C
+## Library management application
+The aim of this project is to develop a university library management application in C
